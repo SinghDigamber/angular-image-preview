@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+.wrapper {
+  max-width: 500px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+input[type="file"] {
+  margin-bottom: 30px;
+}
+
+input {
+  display: inline-block;
+  clear: both;
+  width: 50%;
+}
